@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitaToll", "MitaToll\MitaToll.csproj", "{D618DE92-2925-46B5-B658-40F605001B2D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{DB617CE2-7108-4BA5-8531-A16D43F7271D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D618DE92-2925-46B5-B658-40F605001B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D618DE92-2925-46B5-B658-40F605001B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D618DE92-2925-46B5-B658-40F605001B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D618DE92-2925-46B5-B658-40F605001B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB617CE2-7108-4BA5-8531-A16D43F7271D}.Debug|Any CPU.ActiveCfg = Debug
+		{DB617CE2-7108-4BA5-8531-A16D43F7271D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED193025-4A2B-48C7-972F-8D57C4E26A1B}
+	EndGlobalSection
+EndGlobal
